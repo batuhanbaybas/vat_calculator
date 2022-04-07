@@ -18,9 +18,6 @@ google_maps_api.xml
 *.versionsBackup
 /idea/testData/debugger/tinyApp/classes*
 /jps-plugin/testData/kannotator
-/js/js.translator/testData/out/
-/js/js.translator/testData/out-min/
-/js/js.translator/testData/out-pir/
 .gradle/
 build/
 !**/src/**/build
