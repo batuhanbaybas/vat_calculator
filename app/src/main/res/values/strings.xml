@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Kdv Hesaplayıcı</string>
+    <string name="value_hint_text">Değer giriniz</string>
+    <string name="only_vat_text">KDV : %s</string>
+    <string name="net_price">KDV Hariç : %s</string>
+</resources>
